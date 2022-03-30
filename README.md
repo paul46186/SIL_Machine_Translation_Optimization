@@ -1,1 +1,1 @@
-# SIL_Machine_Translation_Optimization paul
+# SIL_Machine_Translation_Optimization
