@@ -1,1 +1,1 @@
-# SIL_Machine_Translation_Optimization
+# SIL Machine Translation Optimization
